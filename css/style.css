@@ -9572,21 +9572,11 @@ h6,
   text-align: center;
 }
 
-.section-title::after {
-  position: absolute;
-  content: "";
-  width: 2px;
-  height: 100px;
-  top: 0;
-  left: 50%;
-  margin-left: 1px;
-  background: #DA9F5B;
-}
+
 
 .service-icon {
   margin-right: 15px;
   width: 45px;
-  height: 45px;
   font-size: 18px;
   display: inline-flex;
   align-items: center;
